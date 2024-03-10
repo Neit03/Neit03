@@ -1,0 +1,33 @@
+[
+    {
+        "id": "eeba294b-0629-4360-94a4-c085ef78b33d",
+        "title": "Enjoy on your TV.",
+        "subTitle": "Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.",
+        "image": "/images/misc/home-tv.png",
+        "alt": "Tiger King on Netflix",
+        "direction": "row"
+    },
+    {
+        "id": "071ddd8a-2ba3-4e7d-bf48-b1c1c2c0013a",
+        "title": "Download your shows to watch offline.",
+        "subTitle": "Save your favorites easily and always have something to watch.",
+        "image": "/images/misc/home-mobile.png",
+        "alt": "Watch on mobile",
+        "direction": "row-reverse"
+    },
+    {
+        "id": "b5b21681-662a-44b8-83e6-63c7e3cf567a",
+        "title": "Watch everywhere.",
+        "subTitle": "Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.",
+        "alt": "Money Heist on Netflix",
+        "direction": "row"
+    },
+    {
+        "id": "d3fdfefb-3d43-4422-84b7-257a72a624b3",
+        "title": "Create profiles for kids.",
+        "subTitle": "Send kids on adventures with their favorite characters in a space made just for them—free with your membership.",
+        "image": "/images/misc/for-kids.png",
+        "alt": "Netflix for kids",
+        "direction": "row-reverse"
+    }
+]
